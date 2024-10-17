@@ -1,4 +1,4 @@
-package top.kiss1314.Encryption;
+package top.kiss1314.Encryption.model;
 
 public class EncryptionModel {
     private EncryptionStrategy strategy;

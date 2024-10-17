@@ -1,4 +1,4 @@
-package top.kiss1314.Encryption;
+package top.kiss1314.Encryption.view;
 
 import java.util.Locale;
 import java.util.ResourceBundle;

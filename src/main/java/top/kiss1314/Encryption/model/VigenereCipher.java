@@ -1,4 +1,4 @@
-package top.kiss1314.Encryption;
+package top.kiss1314.Encryption.model;
 
 public class VigenereCipher implements EncryptionStrategy {
     public String encrypt(String plainText, String key) {

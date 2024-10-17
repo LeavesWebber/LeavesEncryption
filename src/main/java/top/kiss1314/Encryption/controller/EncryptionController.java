@@ -1,5 +1,9 @@
-package top.kiss1314.Encryption;
+package top.kiss1314.Encryption.controller;
 
+
+import top.kiss1314.Encryption.model.EncryptionFactory;
+import top.kiss1314.Encryption.model.EncryptionModel;
+import top.kiss1314.Encryption.view.EncryptionView;
 
 public class EncryptionController {
     private final EncryptionModel model;
