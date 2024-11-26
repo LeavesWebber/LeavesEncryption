@@ -9,8 +9,7 @@
 
 <div style="text-align: center;">
     <img src="https://leaves520-1326362500.cos.ap-nanjing.myqcloud.com/20241016171815.png"
-         alt="网络异常，图片加载失败">
-    小工具的Demo
+         alt="小工具的Demo">
 </div><br>
 
 --- 
